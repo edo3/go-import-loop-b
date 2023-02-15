@@ -1,0 +1,2 @@
+# github.com/edo3/go-import-loop-dep v1.0.1
+## explicit
